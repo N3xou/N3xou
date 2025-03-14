@@ -6,7 +6,8 @@
 
 - [🔗 Data Preprocessing analysis for Neural Networks and ML algorithms]([https://github.com/N3xou/project-name](https://github.com/N3xou/ComparisonAnalysisDataPreprocessing))  
   *A comparative analysis of preprocessing techniques and their effects on ML/AI models.*
-
+- [🔗 Data Preprocessing analysis for Neural Networks and ML algorithms](https://github.com/Project-team-PO/Quark-Backend)
+  *Backend from a team project of 4, that i worked on, for a web-app with real time chat*
   
 <h3 align="left">Languages:</h3>
 <p align="left"> 
