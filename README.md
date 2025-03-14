@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm N3xou</h1>
-<h3 align="center">Masters student with interest in data science and AI.</h3>
-I recently worked on a comparison analysis of data preprocessing techniques for neural networks and other AI algorithms, examining their impact on model performance and optimization.
+<h3 align="center">I am a Master's student passionate about Data Science and AI. My recent work involves analyzing the impact of different data preprocessing techniques on neural networks and other AI algorithms to optimize model performance. I'm particularly interested in deep learning, model interpretability, and AI-driven automation. 
+</h3>
 
+### 📌 Featured Projects
 
+- [🔗 Data Preprocessing analysis for Neural Networks and ML algorithms]([https://github.com/N3xou/project-name](https://github.com/N3xou/ComparisonAnalysisDataPreprocessing))  
+  *A comparative analysis of preprocessing techniques and their effects on ML/AI models.*
+
+  
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
